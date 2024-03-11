@@ -1,1 +1,1 @@
-ltimedia project
+Multimedia project
